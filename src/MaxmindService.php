@@ -13,7 +13,7 @@ class MaxmindService implements GeoServiceInterface
     protected $_data;
 
     /**
-     * ebat eto test i on rabotaet
+     * @Package AingSh\Alexander\PackageHillelGeoTest v1.0
      */
     public function __construct()
     {
