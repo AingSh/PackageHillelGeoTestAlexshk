@@ -1,6 +1,6 @@
 <?php
 
-namespace Alexander\PackageHillelGeoTest;
+namespace AingSh\Alexander\PackageHillelGeoTest;
 
 use GeoIp2\Database\Reader;
 use http\Client\Request;

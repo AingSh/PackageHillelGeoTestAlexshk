@@ -1,7 +1,9 @@
 <?php
 
-namespace Alexander\PackageHillelGeoTest;
-
+namespace AingSh\Alexander\PackageHillelGeoTest;
+/**
+ * adasdsad
+ */
 interface GeoServiceInterface
 {
     public function getIsoCode(): ?string;

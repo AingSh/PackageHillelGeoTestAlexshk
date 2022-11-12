@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Alexander\\PackageHillelGeoTest\\": "./src"
+            "AingSh\\Alexander\\PackageHillelGeoTest\\": "./src"
         }
     },
     "authors": [
@@ -14,7 +14,7 @@
             "email": "alex.shklyarenko22@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
 
     "require": {
         "geoip2/geoip2": "~2.0",
