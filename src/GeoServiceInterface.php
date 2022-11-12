@@ -2,7 +2,7 @@
 
 namespace AingSh\Alexander\PackageHillelGeoTest;
 /**
- * Test1231423
+ * ebat eto test i on rabotaet
  */
 interface GeoServiceInterface
 {

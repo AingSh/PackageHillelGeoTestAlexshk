@@ -9,7 +9,9 @@ use Illuminate\Support\Facades\Http;
 
 class IpApiGeoService implements GeoServiceInterface
 {
-
+    /**
+     * ebat eto test i on rabotaet
+     */
     /**
      * @param string $ip
      * @return void

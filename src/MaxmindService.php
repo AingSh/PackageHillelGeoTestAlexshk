@@ -12,6 +12,9 @@ class MaxmindService implements GeoServiceInterface
     protected $_reader;
     protected $_data;
 
+    /**
+     * ebat eto test i on rabotaet
+     */
     public function __construct()
     {
         $this->_reader = new Reader(
