@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "AingSh\\Alexander\\PackageHillelGeoTest\\ServiceProvider"
+                "AingSh\\Alexander\\PackageHillelGeoTest\\GeoServiceProvider"
             ]
         }
     }
