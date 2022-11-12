@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Http;
 class IpApiGeoService implements GeoServiceInterface
 {
     /**
-     * @Package AingSh\Alexander\PackageHillelGeoTest v1.0.0
+     * @Package AingSh\Alexander\PackageHillelGeoTest v2.0.0
      */
     /**
      * @param string $ip

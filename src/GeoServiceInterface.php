@@ -2,7 +2,7 @@
 
 namespace AingSh\Alexander\PackageHillelGeoTest;
 /**
- * @Package AingSh\Alexander\PackageHillelGeoTest v1.0.0
+ * @Package AingSh\Alexander\PackageHillelGeoTest v2.0.0 =)
  */
 interface GeoServiceInterface
 {
